@@ -4,13 +4,17 @@
 
 🔭 I’m currently working on
 Small beginner Python programs and learning the basics of coding.
+
 👯 I’m looking to collaborate on
 Simple beginner-friendly projects like mini apps, college assignments, or Python practice projects.
+
 🤝 I’m looking for help with
 Understanding programming fundamentals, writing clean code, and improving problem-solving skills.
+
 🌱 I’m currently learning
 Python (basics), data structures, and object-oriented programming (OOP).
-💬 Ask me about
+
+💬 Ask me about 
 My learning journey as a first-year B.Tech student, Python basics, or getting started with GitHub.
 
 ## 🌐 Socials:
